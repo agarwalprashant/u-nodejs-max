@@ -1,0 +1,6 @@
+# Add this
+
+# node_modules/
+# to .gitignore file to ignore all directories called node_modules in current folder and any subfolders
+# https://stackoverflow.com/questions/29820791/git-ignore-node-modules-folder-everywhere
+node_modules/
